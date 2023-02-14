@@ -1,0 +1,36 @@
+#Karl Paju IS22
+
+#a = ['A', 'B', 'C']
+#b = [1, 2, 3]
+
+#print(a+b)
+
+#b = [1, 2, 3] + [4]
+#print(b)
+
+#b = [1, 2, 3]
+#sum_b = sum(b)
+#print(sum_b)
+
+#a = ['A', 'B', 'C']
+#i = 0
+
+#while i < len(a):
+ #   print(a[i])
+ #   i += 1
+
+#a = [1, 2, 3]
+#i = 0
+
+#while i < len(a):
+ #   if a[i] < 3:
+  #      a[i] = 0
+  #  print(a[i])
+  #  i += 1
+  
+#b = [1, 2, 3]
+
+#for element in b:
+ #   print(element)
+
+

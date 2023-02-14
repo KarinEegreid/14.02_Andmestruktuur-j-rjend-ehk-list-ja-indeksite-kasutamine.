@@ -1,0 +1,12 @@
+# Karl Paju IS22
+#tunniplaan = ["mate", "inka", "vene", "kunst", "arvuti"]
+#if "kunst" in tunniplaan:
+#    print("Kunst on tunniplaanis.")
+#else:
+#    print("Kunst ei ole tunniplaanis.")
+
+#tunniplaan = ["mate", "inka", "vene", "kunst", "arvuti"]
+#print(tunniplaan)
+
+#tunniplaan = ["mate", "inka", "vene", "kunst", "arvuti"]
+#print(tunniplaan[0])
